@@ -1,6 +1,7 @@
 .card{
   width: 40%;
   background-color: #fff;
+  padding: 10px 5px;
 }
 .card__img-top{
   width: 288px;
